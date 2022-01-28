@@ -4,7 +4,6 @@
 ![interfaz 6](https://user-images.githubusercontent.com/88759404/151601931-17557492-3f94-4c87-aa24-f3cf2b5bbce6.png)
 ![interfaz 7](https://user-images.githubusercontent.com/88759404/151601945-0d0e8f2e-a20f-40d2-b509-ff968342fcf2.png)
 ![interfaz 8](https://user-images.githubusercontent.com/88759404/151601961-fd6ff4ae-9898-4a2e-a110-0a5dbe7088b9.png)
-![interfaz](https://user-images.githubusercontent.com/88759404/151601975-36f90764-a31f-4b27-aff0-6dc7f784d310.png)
 
 ![interfaz123](https://user-images.githubusercontent.com/88759404/151600422-1ae187ee-c235-4e6c-8765-78a5b172a2fc.png)
 # Projecto Tienda  primera Version 1
